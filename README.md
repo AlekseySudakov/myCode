@@ -13,10 +13,12 @@ im glad so much
 
 and now i can work with GitHub
 
-i hope it will wark 
+i hope it will work 
 // 
 
 For now we can do it 
 
 i hope 
+
+and now i cant delete it 
 
